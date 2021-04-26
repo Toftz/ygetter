@@ -18,3 +18,8 @@ print(dislikes(url))
 print(creator(url))
 print(is_private(url))
 print(average_rating(url))
+
+
+To import do:
+
+from ygetter import ygetter
